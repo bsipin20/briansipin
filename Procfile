@@ -1,1 +1,1 @@
-heroku config:set WEB_CONCURRENCY=3
+web: python app.py
